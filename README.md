@@ -10,4 +10,5 @@ You can test the calculator [here](https://replit.com/@Jetrai/Sei-Calculator-v10
 
 # About
 This is a calculator that can calculate ***arithmetic, roots, and powers***.
+
 **Meanwhile** I will add new ***features*** to this calculator. See you then.
