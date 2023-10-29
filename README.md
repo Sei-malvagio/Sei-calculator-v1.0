@@ -1,5 +1,6 @@
 # Sei-calculator-v1.0
 Simple calculator made with C
 
-#Overview
+# Overview
+
 ![calcoview](overview.jpg)
