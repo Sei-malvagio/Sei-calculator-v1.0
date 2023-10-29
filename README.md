@@ -1,4 +1,4 @@
-# Sei-calculator-v1.0
+# Sei-calculator-v1.
 Simple calculator made with C.
 
 # Overview
@@ -9,4 +9,5 @@ This calculator provides several numbers as shown below.
 You can test the calculator [here](https://replit.com/@Jetrai/Sei-Calculator-v10)
 
 # About
-This is a calculator that can calculate arithmetic, roots, and powers. Meanwhile I will add new features to this calculator.
+This is a calculator that can calculate ***arithmetic, roots, and powers***.
+**Meanwhile** I will add new ***features*** to this calculator. See you then.
